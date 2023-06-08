@@ -1,0 +1,22 @@
+.drag{
+    display: flex;
+}
+
+.container {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+  
+  .item {
+    background-color: #f1f1f1;
+    padding: 5px;
+    margin-bottom: 5px;
+    cursor: move;
+  }
+  
+  .success-message {
+    color: green;
+  }
+  
